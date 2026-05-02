@@ -1,0 +1,36 @@
+◇ injected env (1) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+◇ injected env (0) from .env // tip: ⌘ enable debugging { debug: true }
+
+==========================================
+       CAMPUS PRIORITY INBOX (Top 10)     
+==========================================
+1. [Placement] TSMC hiring
+   Time: 2026-05-01 23:52:57
+------------------------------------------
+2. [Placement] Nvidia Corporation hiring
+   Time: 2026-05-01 21:21:51
+------------------------------------------
+3. [Placement] Amgen Inc. hiring
+   Time: 2026-05-01 19:53:03
+------------------------------------------
+4. [Placement] Advanced Micro Devices Inc. hiring
+   Time: 2026-05-01 19:23:27
+------------------------------------------
+5. [Placement] Berkshire Hathaway Inc. hiring
+   Time: 2026-05-01 19:23:15
+------------------------------------------
+6. [Placement] Eli Lilly and Company hiring
+   Time: 2026-05-01 08:23:09
+------------------------------------------
+7. [Result] project-review
+   Time: 2026-05-02 04:22:09
+------------------------------------------
+8. [Result] mid-sem
+   Time: 2026-05-02 02:22:39
+------------------------------------------
+9. [Result] internal
+   Time: 2026-05-02 01:52:03
+------------------------------------------
+10. [Result] end-sem
+   Time: 2026-05-01 22:52:15
+------------------------------------------
