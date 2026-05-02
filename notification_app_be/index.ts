@@ -1,6 +1,7 @@
 import axios from 'axios';
-import { Log } from '../logger';
 import * as dotenv from 'dotenv';
+import * as path from 'path';
+import { Log } from '../logging_middleware';
 dotenv.config();
 
 const API_URL = 'https://20.207.122.201/evaluation-service/notifications';
